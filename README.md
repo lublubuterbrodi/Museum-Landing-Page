@@ -1,4 +1,4 @@
-#🎨 Museum Landing Page — Responsive Website
+# 🎨 Museum Landing Page — Responsive Website
 
 This project is a **responsive museum landing page** implemented according to a Figma design.
 It demonstrates modern layout techniques, clean UI structure, animations, and responsive behavior across multiple screen sizes.
