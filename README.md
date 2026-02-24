@@ -107,31 +107,3 @@ Or open index.html in your browser if no build step is required.
 ✅ Clean BEM + SCSS architecture
 
 📋 Project Checklist
-
----
-
-## This project follows portfolio requirements:
-
-- Proper page title and favicon
-
-- Navigation links scroll to corresponding sections
-
-- Buttons lead to the correct blocks
-
-- Form validation prevents empty submission
-
-- Mobile layout without horizontal scrolling
-
-- Smooth animations and transitions
-
-- Form resets after submission
-
----
-
-## 📌 Author
-
-GitHub: https://github.com/lublubuterbrodi
-
-## 💡 Notes
-
-This project was created as part of the Mate Academy frontend training program and is intended for portfolio demonstration.
